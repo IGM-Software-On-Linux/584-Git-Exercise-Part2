@@ -1,6 +1,5 @@
 CAKES HAVE LAYERS
 
-<<<<<<< HEAD
                        ,   ,   ,   ,
                      , |_,_|_,_|_,_| ,
                  _,-=|;  |,  |,  |,  |;=-_
@@ -145,4 +144,3 @@ CAKES HAVE LAYERS
           /'  /|\  '\    SOMEONE POISONED
      jgs /   /^ ^\   \    THE WATERHOLE!
         /__.'     `.__\
->>>>>>> e77dc4f345b03c5e77b5364b31487924ba4264a4
