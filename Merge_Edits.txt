@@ -12,7 +12,7 @@ You may obtain a copy of the License at
     See the License for the specific language governing permissions and
     limitations under the License.
 
-CAKES HAVE LAYERS.. or do they?
+CAKES HAVE LAYERS.. or do they? I think they do.
 
                        ,   ,   ,   ,
                      , |_,_|_,_|_,_| ,
@@ -26,7 +26,7 @@ CAKES HAVE LAYERS.. or do they?
            =_      -=:.___:_____|___.: =-     _=
               - . _ __ ___  ___  ___ __ _ . -
 
-I want some cake :(
+I want some cake :'(
 
 
     ,--._
@@ -695,7 +695,7 @@ I want some cake :(
 
 
 This file needs more freedom.
-Green Is My Pepper
+Red Is My Pepper
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░
@@ -933,3 +933,22 @@ Nyannyannyannyan
 ####'#############@@@@@@@@@@@@@@@@@@@@@@@@@###########@#@@##########@@@@@@@@@@@@@@@@@@@@@@@',,,,,,,,,,:::::,,.,,.,:,;'+':,,,:;+++:,,:,:'+::,,'+#..........
 ###+;#+####@@#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@###########@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,,,,:;,,,,.,,,,,.:;;;;:::,,:,,;+':::,:''+',,,,,'#,,.............
 
+A representation of my computer:
+
+                      .___________.
+                      |           |
+       ___________.   |  |    /~\ |
+      / __   __  /|   | _ _   |_| |
+     / /:/  /:/ / |   !________|__!
+    / /:/  /:/ /  |            |
+   / /:/  /:/ /   |____________!
+  / /:/  /:/ /    |
+ / /:/  /:/ /     |
+/  ~~   ~~ /      |
+|~~~~~~~~~~|      |
+|    ::    |     /
+|    ==    |    /
+|    ::    |   /
+|    ::    |  /
+|    ::  @ | /
+!__________!/
